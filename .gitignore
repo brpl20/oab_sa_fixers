@@ -1,0 +1,7 @@
+*.json
+*.env
+env
+*.log
+oab_sa_fixer_env
+*.jpg
+*.txt
