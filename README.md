@@ -1,3 +1,6 @@
+# OAB Fixers 
+- Auxiliadores para arrumar o banco de dados de scraping em geral
+
 # States
 States: 
 Lawyer.where(state: [nil, ""]).count
